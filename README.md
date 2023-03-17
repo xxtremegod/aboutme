@@ -1,13 +1,13 @@
 
 <h2 align="left">About Me !</h2>
-<h1 align="center">Hi 👋, I'm Godfather</h1>
-<h3 align="center">A passionate frontend developer from Earth</h3>
+<h1 align="center">Hi🙋‍♂️, I'm ♕︎ ɢᴏᴅғᴀᴛʜᴇʀ ♡︎ </h1>
+<h3 align="center">👨‍💻A passionate frontend developer from Earth🗺️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxtremegod&label=Profile%20views&color=0e75b6&style=flat" alt="xxtremegod" /> </p>
 
-- 🌱 I’m currently learning **website-making,coding**
+- 🌱 I’m currently learning **website-making,coding,editing,etc..**
 
-- 💬 Ask me about **blogger**
+- 💬 Ask me about **blogger,instagram,telegram,freefire,movies & webseries**
 
 - 📫 How to reach me **godfather01online@outlook.com**
 
